@@ -1,4 +1,6 @@
 # IronSource Interactive video assignment
+written by: <b>Yoav Bar Zur</b>
+
 ## Some notes about the implementation :
 1. The video appears only if the screen is in landscape mode on phone
 2. I used Lottie to create the buttons, as I found those more suited for the project - it remind me a real mobile game buttons!
